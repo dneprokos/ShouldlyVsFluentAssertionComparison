@@ -1,6 +1,6 @@
 # ShouldlyVsFluentAssertionComparison
 
-![main image](/Images/Title.png)
+![main image](/images/Title.png)
 
 This project was created to compare Fluent Assertion and Shoudly libraries.
 The idea was to create the same method implementations for both libraries and try to find missing features
