@@ -4,7 +4,7 @@ using ShouldlyVsFluentAssertionComparison.HelperObjects;
 
 namespace ShouldlyVsFluentAssertionComparison.UseFluentAssertionTests
 {
-    public class Shouldly_ShouldNotBe_Tests
+    public class FluentAssertions_ShouldNotBe_Tests
     {
         [Test]
         public void FluentAssertions_ShouldNotBe_Objects_Test()
